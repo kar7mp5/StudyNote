@@ -17,8 +17,7 @@ $$
 \begin{bmatrix}
 x \\
 y
-\end{bmatrix}
-=
+\end{bmatrix} =
 \begin{bmatrix}
 2 \\
 11
