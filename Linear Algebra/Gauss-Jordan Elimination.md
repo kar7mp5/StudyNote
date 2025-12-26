@@ -6,6 +6,7 @@ x - 2y &= 2 \\
 5x + 2y &= 11
 \end{cases}
 $$
+
 We can rewrite this system in matrix form as follows.  
 
 $$
@@ -38,7 +39,6 @@ When performing Gaussian elimination, we use the following elementary row operat
 1. Multiply a row by a non-zero scalar.
 2. Swap two rows.
 3. Add a multiple of one row to another row.
-
 
 ### Implementation of Gaussian Elimination
 
